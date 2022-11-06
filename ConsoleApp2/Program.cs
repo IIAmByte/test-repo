@@ -10,6 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!"); // Prints out "Hello World!" to console.
+            Console.ReadLine(); // Waits for user input before proceeding, acting effectively as a pause.
         }
     }
 }
